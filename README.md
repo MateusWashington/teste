@@ -1,5 +1,5 @@
-# teste
-# produto = input('Digite qual o produto: ')
+ teste
+ produto = input('Digite qual o produto: ')
 gramatura = int(input('Digite a gramatura do produto: '))
 porcao_dia = int(input('Quantas porções por dia você vai consumir ?'))
 peso_porcao = int(input('Qual o peso da porção (em gramatura) ?'))
