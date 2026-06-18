@@ -9,4 +9,3 @@ duracao_dias = gramatura // consumo_diario
 
 print (f'O produto {produto} durará aproximadamente {duracao_dias} dias')
 
-#Estou fazendo esta modificação para testar uma funcionalidade do git#
